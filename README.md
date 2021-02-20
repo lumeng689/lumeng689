@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Machine Learning & Reinforcement Learning & Rust lang
+- 🔭 Years of development experience with Java/Go/Angular/Vue.
+
 ![](https://github-readme-stats.vercel.app/api?username=lumeng689)
